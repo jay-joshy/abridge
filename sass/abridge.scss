@@ -40,11 +40,11 @@ $ic: true !default; // true for colorized icons, otherwise #888 is used.
 
 $icon-rss: true !default;
 $icon-mail: true !default;// e-mail
-$icon-mastodon: true !default;
+$icon-mastodon: false !default;
 $icon-element: true !default;
 $icon-matrix: false !default;
 $icon-buymeacoffee: false !default;
-$icon-kofi: true !default;
+$icon-kofi: false !default;
 $icon-twitter: false !default;
 $icon-facebook: false !default;
 $icon-linkedin: false !default;
@@ -56,12 +56,12 @@ $icon-bitbucket: false !default;
 $icon-python: false !default;
 $icon-docker: false !default;
 $icon-stack: false !default;
-$icon-instagram: true !default;
+$icon-instagram: false !default;
 $icon-pixelfed: false !default;//heaviest icon, off by default
 $icon-pinterest: false !default;
 $icon-discord: false !default;
-$icon-twitch: true !default;
-$icon-youtube: true !default;
+$icon-twitch: false !default;
+$icon-youtube: false !default;
 $icon-peertube: false !default;
 $icon-researchgate: false !default;
 $icon-telegram: false !default;
